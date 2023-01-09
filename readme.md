@@ -72,7 +72,7 @@ My current status is studying at </h2>
 <div align="center">
 	
 
-![CPU]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jyothyit.ac.in%2F&psig=AOvVaw3hkRK2LvW57hbg9c2PgKM0&ust=1673329111887000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCOjVu_HiufwCFQAAAAAdAAAAABAN
+<img src="https://www.jyothyit.ac.in/wp-content/themes/jyothi/images/logo.png"/>
 <br> 
 	
 
